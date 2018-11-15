@@ -4,7 +4,7 @@
 	padding: 0;
 }
 html{
-	background: white;
+	background: white
 }
 strong{
 	text-transform: uppercase;
@@ -77,12 +77,8 @@ a {
 }
 /************en plus**************/
 #sup_infos {
-	margin: auto;
-	width: 100%;
-}
-#sup_infos{
+	width: 70%;
 	max-width: 1000px;
-	display:block;
 	margin: auto;
 	padding: 40px;
 	border: 4px solid hsl(35,18%,50%);
